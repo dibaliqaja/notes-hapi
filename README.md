@@ -1,0 +1,1 @@
+# This notes app backend build with Hapi Framework
